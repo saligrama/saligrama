@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Aditya (he/him)
 
-<!--
-**saligrama/saligrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at Stanford University studying computer science with a focus in systems and security. During Summer 2022, I'll be a software engineering intern at Lacework.
 
-Here are some ideas to get you started:
+Some interesting links:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [personal site](https://saligrama.io)
+* [blog](https://saligrama.io/blog)
+* [photography portfolio](https://saligrama.io/photo)
+
+You can reach out via
+
+* [email: aditya@saligrama.io](mailto:aditya@saligrama.io)
+* [twitter: @saligrama_a](https://twitter.com/saligrama_a)
