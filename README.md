@@ -1,6 +1,6 @@
 # Hi, I'm Aditya (he/him)
 
-I'm an undergraduate student at Stanford University studying computer science with a focus in systems and security. During Summer 2022, I'll be a software engineering intern at Lacework.
+I'm an undergraduate student at Stanford University studying computer science with a focus in systems and security. This summer (2022), I'm a software engineering intern at Lacework (@lacework-dev).
 
 Some interesting links:
 
