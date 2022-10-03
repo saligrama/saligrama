@@ -6,6 +6,7 @@ Some interesting links:
 
 * [personal site](https://saligrama.io)
 * [blog](https://saligrama.io/blog)
+* [notes](https://saligrama.io/notes)
 * [photography portfolio](https://saligrama.io/photo)
 
 You can reach out via
