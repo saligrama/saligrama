@@ -1,8 +1,8 @@
 # Hi, I'm Aditya (he/him)
 
-I'm an undergraduate student at Stanford University studying computer science with a focus in systems and security.
+I'm an undergraduate and graduate student at Stanford University studying computer science with a focus in systems and security.
 
-Some interesting links:
+More about me:
 
 * [personal site](https://saligrama.io)
 * [blog](https://saligrama.io/blog)
